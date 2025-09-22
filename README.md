@@ -43,8 +43,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
-*Other concepts & methods:* Word2Vec, GloVe, TF-IDF, SVD, PCA, LSI, Cosine Similarity, Naïve Bayes, Reinforcement Learning
-
 #### 🛠️ Development & Concepts
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
