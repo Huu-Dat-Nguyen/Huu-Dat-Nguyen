@@ -15,7 +15,7 @@
 
 - [**Anime Title Identification System**](https://github.com/Huu-Dat-Nguyen/Anime-Title-Identification-System)
  
-- [**Stock Prediction using a hybrid LLM Model**]() 
+- [**Stock Prediction using a hybrid LLM Model**](https://github.com/Huu-Dat-Nguyen/Stock-Prediction-Using-LLM) 
 
 ---
 
