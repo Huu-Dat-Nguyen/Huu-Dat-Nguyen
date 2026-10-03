@@ -26,11 +26,11 @@ Computer Science & Mathematics background, focused on Multi-Agent systems, LLM o
 
 ## 🚀 Featured Projects
 
+- [**Agentic Minesweeper**](https://github.com/Huu-Dat-Nguyen/agentic-minesweeper) — Polished, responsive Minesweeper game built with vanilla HTML, CSS, and JavaScript. _(JavaScript)_
 - [**Stock Prediction with Hybrid LLM**](https://github.com/Huu-Dat-Nguyen/Stock-Prediction-Using-LLM) — Real-time financial data pipeline with RSI/SMA indicators; 4-bit quantized Llama 3.2 (1B) via PEFT/Hugging Face for news sentiment analysis; decision gate generating trading signals. _(Python, Pandas, Transformers, PEFT, Pydantic)_
 - [**Decoding the Chameleon Game**](https://github.com/Huu-Dat-Nguyen/EAAI_2025) — AI Agent simulating player thinking with PyTorch, GloVe, Word2Vec and Naive Bayes; Q-Learning with Neural Voting Classifier. _(Published at EAI 2025)_
 - [**Anime Title Identification System**](https://github.com/Huu-Dat-Nguyen/Anime-Title-Identification-System) — NLP system matching natural-language queries to MyAnimeList data using TF-IDF, SVD and Cosine Similarity
-
-> Also: [Human Counter App](https://github.com/Huu-Dat-Nguyen/SeniorProject_HumanCounter)
+- [**Human Counter App**](https://github.com/Huu-Dat-Nguyen/SeniorProject_HumanCounter) — Mobile app for Android using Python, Kivy and Buildozer, with AI components for automatic human detection and counting via the phone's camera
 
 ## 📄 Publication
 
