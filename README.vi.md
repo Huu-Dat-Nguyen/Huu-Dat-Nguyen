@@ -26,11 +26,11 @@ Nền tảng Khoa học Máy tính và Toán học, tập trung vào hệ thốn
 
 ## 🚀 Dự án tiêu biểu
 
+- [**Agentic Minesweeper**](https://github.com/Huu-Dat-Nguyen/agentic-minesweeper) — Game Minesweeper đẹp, responsive, xây bằng HTML, CSS và JavaScript thuần. _(JavaScript)_
 - [**Dự đoán thị trường chứng khoán với LLM Hybrid**](https://github.com/Huu-Dat-Nguyen/Stock-Prediction-Using-LLM) — Data pipeline thu thập dữ liệu tài chính thời gian thực và chỉ số kỹ thuật RSI, SMA; lượng tử hóa Llama 3.2 (1B) 4-bit bằng PEFT/Hugging Face để phân tích cảm xúc tin tức; decision gate tạo tín hiệu giao dịch. _(Python, Pandas, Transformers, PEFT, Pydantic)_
 - [**Giải mã trò chơi Chameleon**](https://github.com/Huu-Dat-Nguyen/EAAI_2025) — AI Agent mô phỏng tư duy người chơi bằng PyTorch, GloVe, Word2Vec và Naive Bayes; tích hợp Q-Learning với Neural Voting Classifier. _(Được đăng tại EAI 2025)_
 - [**Hệ thống nhận diện tên phim Anime**](https://github.com/Huu-Dat-Nguyen/Anime-Title-Identification-System) — Hệ thống NLP khớp truy vấn tự nhiên với dữ liệu MyAnimeList bằng TF-IDF, SVD và Cosine Similarity
-
-> Ngoài ra: [Human Counter App](https://github.com/Huu-Dat-Nguyen/SeniorProject_HumanCounter)
+- [**Human Counter App**](https://github.com/Huu-Dat-Nguyen/SeniorProject_HumanCounter) — Ứng dụng Android bằng Python, Kivy và Buildozer, tích hợp AI phát hiện và đếm người qua camera điện thoại
 
 ## 📄 Công bố khoa học
 
